@@ -74,7 +74,7 @@
     "mocha": "^8.0.1",
     "mochapack": "^2.0.2",
     "moduleserve": "^0.9.1",
-    "mongoose": "^5.9.16",
+    "mongoose": "^5.13.15",
     "node-cache": "^5.1.1",
     "nyc": "^15.1.0",
     "prosemirror-example-setup": "^1.1.2",
